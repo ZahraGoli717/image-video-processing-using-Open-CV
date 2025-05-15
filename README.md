@@ -1,3 +1,3 @@
 # image/video-processing-using-Open-CV
-This repository includes some open CV and classic image processing techniques such as image binarization, theresholding, Histogram and feature matching, because it is not always necessary to use complex methods or deep learning in image processing. Sometimes a problem can be solved with a few simple techniques. 
+This repository includes some open CV and classic image processing techniques such as image binarization, theresholding, Histogram and feature matching, because it is not always necessary to use complex methods or deep learning in image processing.<br/> Sometimes a problem can be solved with a few simple techniques. 
 For example, assume the color of a product on a factory conveyor belt is blue and we can track the product with a color filter. Or if we need to check whether a tablet sheet is completely filled during packaging, we can binarize the image and count the number of white pixels.
